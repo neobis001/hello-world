@@ -1,7 +1,5 @@
 import this
 
-print('this should work as a .py file')
-print("here's another alignment")
-print("This is an edit on test.py")
-print("Here's another line!")
-print("Here's yet another line!")
+print("deleted four lines, and now adding this one here")
+print("I'm going to try adding this line right here!")
+print("I'm going to add this line here")
